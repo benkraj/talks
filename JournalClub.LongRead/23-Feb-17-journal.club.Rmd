@@ -507,7 +507,7 @@ layout: false
   ### Figure 3a:
 ]
 .right-column[
-![:scale 65%](Figure3a.jpg)
+![:scale 65%](figure3a.jpg)
  ### ERCC reference library spike-in read counts.
 ]
 ---
