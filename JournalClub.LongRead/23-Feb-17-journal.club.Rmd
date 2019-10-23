@@ -7,9 +7,9 @@ output:
   xaringan::moon_reader:
     lib_dir: libs
     chakra: libs/remark-latest.min.js
-    css: ["https://cdn.rawgit.com/benkraj/nih_xaringan/master/nih3.css",     "https://cdn.rawgit.com/benkraj/nih_xaringan/master/nih-fonts.css"]
+    css: ["https://rawcdn.githack.com/benkraj/nih_xaringan/463d86926265dfa114dc337d9a9a535e76570531/nih3.css",     "https://rawcdn.githack.com/benkraj/nih_xaringan/463d86926265dfa114dc337d9a9a535e76570531/nih-fonts.css"]
     nature:
-      beforeInit: "https://cdn.rawgit.com/benkraj/nih_xaringan/master/ru_xaringan.js"
+      beforeInit: "https://rawcdn.githack.com/benkraj/nih_xaringan/463d86926265dfa114dc337d9a9a535e76570531/ru_xaringan.js"
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
@@ -507,7 +507,7 @@ layout: false
   ### Figure 3a:
 ]
 .right-column[
-![:scale 65%](figure3a.jpg)
+![:scale 65%](Figure3a.jpg)
  ### ERCC reference library spike-in read counts.
 ]
 ---
